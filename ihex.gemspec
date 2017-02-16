@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Damian Rzeszot"]
   s.email       = "damian.rzeszot+ihex@gmail.com"
 
-  s.files       = ["lib/ihex.rb"]
+  s.files       = ["lib/ihex.rb", "lib/ihex/binary.rb", "lib/ihex/parser.rb", "lib/ihex/record.rb"]
 
   s.homepage    = 'https://github.com/DSM51/gem-ihex'
   s.license     = 'MIT'
